@@ -1,51 +1,102 @@
-## Instalación
-Para desarrollar un proyecto en python, sigue los siguientes pasos:
+# Manual Básico para Análisis Descriptivo de Datos en Python
 
-1. Clona el repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/usuario/proyecto-xyz.git
-   ```
+## Introducción
+Este manual te ayudará a realizar un análisis descriptivo de datos utilizando **Python**. Aprenderás a cargar un conjunto de datos, calcular estadísticas descriptivas y crear visualizaciones básicas utilizando las bibliotecas **pandas**, **matplotlib** y **seaborn**.
 
-2. Navega al directorio del proyecto:
-   ```bash
-   cd proyecto-xyz
-   ```
+## Requisitos Previos
+- Instalación de **Python**.
+- Instalación de las librerías necesarias: `pandas`, `matplotlib`, `seaborn`.
 
-3. Instala las dependencias necesarias:
-   ```bash
-   pip install -r requirements.txt
-   ```
+### Instalación de las Librerías
+Ejecuta estos comandos en la terminal para instalar las bibliotecas:
 
-## Uso
-A continuación, se muestran ejemplos de cómo utilizar las funciones principales del Proyecto XYZ.
+```bash
+pip install pandas matplotlib seaborn
+```
 
-### Ejemplo de código Python para cargar datos
+## Paso 1: Importar las Librerías
+
 ```python
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 
-# Cargar los datos desde un archivo CSV
-df = pd.read_csv('datos.csv')
+## Paso 2: Cargar el Conjunto de Datos
 
-# Mostrar las primeras filas del DataFrame
+En este tutorial, usaremos el conjunto de datos **Iris**, disponible a través de una URL.
+
+```python
+# Cargar los datos de Iris desde GitHub
+url = "https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv"
+df = pd.read_csv(url)
+
+# Mostrar las primeras filas del dataset
 print(df.head())
 ```
 
-### Ejemplo de código Python para analizar datos
-```python
-# Calcular la media de una columna específica
-media_columna = df['columna_interes'].mean()
-print(f'La media de la columna es: {media_columna}')
+## Paso 3: Estadísticas Descriptivas Básicas
 
-# Filtrar datos según una condición
-filtro = df[df['columna_interes'] > 50]
-print(filtro)
+```python
+# Resumen estadístico del conjunto de datos
+print(df.describe())
 ```
 
-## Solución de Problemas
-Si encuentras errores durante el proceso de instalación o uso, revisa las siguientes soluciones:
+## Paso 4: Visualización de Histogramas
 
-- **Error de versión de Python**: Asegúrate de que estás usando Python 3.7 o superior.
-- **Dependencias faltantes**: Verifica que todas las bibliotecas estén correctamente instaladas con `pip install -r requirements.txt`.
+```python
+# Configuración de estilo de Seaborn
+sns.set(style="whitegrid")
+
+# Crear histogramas de cada característica
+features = df.columns[:-1]  # Excluyendo la columna 'species'
+
+plt.figure(figsize=(12, 8))
+for i, feature in enumerate(features):
+    plt.subplot(2, 2, i + 1)
+    sns.histplot(df[feature], kde=True)
+    plt.title(f"Distribución de {feature}")
+
+plt.tight_layout()
+plt.show()
+```
+
+## Paso 5: Gráficos de Dispersión
+
+```python
+# Gráfico de dispersión entre pares de variables
+sns.pairplot(df, hue="species", markers=["o", "s", "D"])
+plt.suptitle("Gráfico de Dispersión entre Características por Especie", y=1.02)
+plt.show()
+```
+
+## Paso 6: Matriz de Correlación
+
+```python
+# Calcular y mostrar la matriz de correlación
+correlation_matrix = df.corr()
+
+plt.figure(figsize=(8, 6))
+sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm")
+plt.title("Matriz de Correlación entre Características")
+plt.show()
+```
+
+## Ejercicios Prácticos
+
+1. **Histograma de otra característica**: Crea un histograma para `sepal_width` o `petal_length`.
+2. **Gráfico de dispersión diferente**: Modifica el gráfico de dispersión para explorar `petal_length` vs `petal_width`.
+3. **Boxplot por especie**:
+
+```python
+plt.figure(figsize=(8, 6))
+sns.boxplot(x="species", y="sepal_length", data=df)
+plt.title("Longitud del Sépalo por Especie")
+plt.show()
+```
+
+## Conclusión
+Este manual te ha guiado a través de los pasos básicos para realizar un análisis descriptivo en **Python** utilizando **pandas**, **matplotlib** y **seaborn**. Sigue practicando con otros conjuntos de datos para mejorar tus habilidades en análisis de datos.
 
 ## Recursos Adicionales
 - [Documentación de Pandas](https://pandas.pydata.org/pandas-docs/stable/)
