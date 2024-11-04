@@ -1,4 +1,6 @@
-Introducción del Proyecto
+# Bienvenido al Proyecto Final para la EE ICD
+
+##Introducción del Proyecto
 
 La educación básica es un pilar fundamental para el desarrollo de cualquier sociedad, y garantizar su calidad y equidad es uno de los desafíos más importantes que enfrentan los gobiernos en todo el mundo. En México, las disparidades en el rendimiento escolar y las condiciones socioeconómicas de las familias han planteado preocupaciones significativas. Este proyecto de ciencia de datos se enfoca en analizar estas disparidades, explorando cómo los factores socioeconómicos influyen en los resultados académicos de los estudiantes en educación básica.
 
