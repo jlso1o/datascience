@@ -36,7 +36,7 @@ Existen programas de apoyo y becas para estudiantes en situación de vulnerabili
 
 Los estudiantes de educación básica en México, especialmente en comunidades con bajos niveles socioeconómicos, evidencian un rendimiento académico inferior en evaluaciones nacionales como PLANEA. Esto se debe a factores como la falta de recursos tecnológicos, un bajo ingreso familiar y una infraestructura escolar deficiente, y las medidas actuales de apoyo no logran reducir de manera efectiva estas desigualdades.
 
-### Ventajas del Uso de Ciencia de Datos
+### Uso de Ciencia de Datos
 
 Una de las ventajas de utilizar ciencia de datos en este contexto es la capacidad de cruzar grandes volúmenes de información y encontrar patrones que no serían evidentes a simple vista. Por ejemplo, es posible identificar qué regiones o tipos de escuelas presentan mayores desafíos y cómo los factores económicos y sociales contribuyen a esas diferencias. Esto permitirá, además, diseñar intervenciones específicas y políticas públicas más efectivas y focalizadas.
 
