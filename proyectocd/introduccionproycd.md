@@ -49,3 +49,6 @@ El desarrollo de modelos predictivos también jugará un papel importante en est
 La validación del proyecto se llevará a cabo mediante un piloto en una región seleccionada, lo cual permitirá evaluar la precisión y efectividad de los modelos propuestos. Durante esta fase, se realizarán ajustes basados en los resultados obtenidos y se medirán indicadores clave, como la mejora en las calificaciones promedio y la reducción de brechas de rendimiento entre distintos grupos socioeconómicos.
 
 Finalmente, si el piloto resulta exitoso, el proyecto se extenderá a nivel nacional. Este despliegue permitirá que las políticas basadas en evidencia se implementen de manera más eficiente, promoviendo una educación más equitativa y adaptada a las necesidades de cada región. Con un monitoreo constante y la capacidad de ajuste, se garantizará que el proyecto siga siendo relevante y efectivo en el tiempo, contribuyendo al desarrollo de una educación básica de calidad para todos los estudiantes en México.
+
+## Modelado piloto
+En este espacio se presenta el modelado de datos en piloto del cluster de escuelas primarias, [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
