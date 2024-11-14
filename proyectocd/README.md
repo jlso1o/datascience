@@ -22,3 +22,6 @@ Monitoreo y Ajuste: Realizar monitoreos continuos para ajustar los modelos con n
 
 ## Introducción
 En este espacio se presenta la introducción del proyecto y la problemática a abordar, [haz click para ir](https://github.com/jlso1o/datascience/blob/main/proyectocd/introduccionproycd.md)
+
+## Modelado piloto
+En este espacio se presenta el modelado de datos en piloto del cluster de escuelas primarias, [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
