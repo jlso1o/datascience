@@ -3,9 +3,10 @@
 Analizar el desempeño académico en las escuelas de primaria de Veracruz.
 
 ## Pasos Realizados
-1. Exploración inicial del dataset.
-2. Selección de variables relevantes.
-3. Creación y evaluación de un modelo de análisis.
+•	Descripción general del proyecto.
+•	Objetivo principal.
+•	Resumen de los pasos realizados.
+•	Principales resultados obtenidos.
 
 ## Resultados Principales
 - En construcción.
