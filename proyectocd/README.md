@@ -1,11 +1,12 @@
 # Proyecto Final: Introducción a la Ciencia de Datos
+## Elaborado por:
+# José Luis Soto Ortiz
+
 ## Objetivo
-Analizar el desempeño académico en las escuelas de primaria de Veracruz.
+Analizar las caraterísticas de las escuelas de primaria de Veracruz.
 
 ## Pasos Realizados
 Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd.md)
-
-Objetivo principal.
 
 Resumen de los pasos realizados.
 
