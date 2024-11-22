@@ -3,7 +3,7 @@
 Analizar el desempeño académico en las escuelas de primaria de Veracruz.
 
 ## Pasos Realizados
-Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
+Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd.md)
 
 Objetivo principal.
 
