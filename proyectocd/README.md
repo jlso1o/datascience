@@ -6,7 +6,7 @@
 Analizar las caraterísticas de las escuelas de primaria de Veracruz.
 
 ## Pasos Realizados
-Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd.md)
+Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
 
 Resumen de los pasos realizados.
 
