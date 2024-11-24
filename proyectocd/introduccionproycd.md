@@ -14,27 +14,44 @@ Este estudio se enfoca exclusivamente en las escuelas primarias del estado de Ve
 
 #### Personas Usuarias
 
-Estudiantes de educación básica en México que enfrentan disparidades en el rendimiento académico.
+Las principales personas usuarias de este análisis son las autoridades educativas de la Secretaría de Educación de Veracruz (SEV), responsables de la planificación y asignación de recursos en las escuelas primarias del estado. También se incluyen los directores de escuelas, supervisores escolares, investigadores educativos, y organizaciones de la sociedad civil interesadas en promover una educación primaria equitativa y de calidad. Este análisis busca proporcionar información valiosa para diseñar estrategias que mejoren las condiciones educativas en las escuelas primarias de Veracruz.
 
 #### Contexto del Problema
 
-En México, particularmente en comunidades con diferentes niveles socioeconómicos, los estudiantes experimentan desigualdades significativas en su desempeño escolar. Estas disparidades se hacen más evidentes en zonas rurales y comunidades con menos recursos, afectando su acceso a una educación de calidad y su desarrollo futuro.
+En Veracruz, las escuelas de nivel primaria enfrentan desafíos significativos en términos de equidad en la distribución de recursos y organización. Las diferencias entre zonas rurales y urbanas son marcadas: mientras que las escuelas en zonas urbanas suelen contar con más docentes y mejores instalaciones, las escuelas rurales, a menudo de tipo multigrado, enfrentan limitaciones de recursos humanos y materiales. Estas disparidades afectan directamente la calidad de la educación y las oportunidades de aprendizaje de los estudiantes.
 
-#### Indicador
+El estado cuenta con una amplia red de escuelas primarias, cada una con características organizacionales específicas, como el número de docentes asignados, el tipo de organización docente (completa o multigrado) y la ubicación geográfica. Sin embargo, actualmente no se dispone de un análisis integrado y georreferenciado que permita identificar patrones y disparidades en la distribución de estos recursos. La falta de información detallada limita la capacidad de las autoridades para intervenir en las zonas de mayor necesidad.
 
-Evaluaciones como PLANEA muestran diferencias marcadas en los puntajes de rendimiento escolar entre estudiantes de distintas regiones y contextos económicos. Por ejemplo, las evaluaciones recientes evidencian que los estudiantes de zonas con menor infraestructura educativa y recursos tienen un rendimiento hasta un 30% inferior en comparación con sus pares de zonas urbanas mejor equipadas.
+#### Indicadores
+
+Para abordar el problema, se proponen los siguientes indicadores clave para las escuelas de nivel primaria:
+
+1.- Número de escuelas primarias por municipio.
+2.- Proporción de escuelas primarias multigrado, completas e incompletas.
+3.- Promedio de docentes asignados por escuela primaria.
+4.- Distribución geográfica de las escuelas primarias (latitud y longitud).
+5.- Relación entre el número de docentes y el tipo de organización docente en las escuelas primarias.
+6.- Municipios con mayor y menor densidad de escuelas primarias.
 
 #### Hipótesis
 
-Las disparidades en el rendimiento académico se deben principalmente a factores socioeconómicos como el ingreso familiar, el nivel educativo de los padres y el acceso a recursos tecnológicos y de infraestructura. Estas condiciones crean un entorno desigual que limita el potencial de aprendizaje de los estudiantes.
+Hipótesis General: Las escuelas primarias en Veracruz presentan disparidades significativas en la asignación de recursos docentes y la organización escolar, particularmente entre regiones rurales y urbanas.
+
+Hipótesis Específicas:
+1.- Las escuelas primarias rurales tienen una mayor proporción de organización multigrado y menor número de docentes por escuela en comparación con las urbanas.
+2.- Los municipios con mayor densidad poblacional concentran más recursos educativos, como docentes y mejores instalaciones.
+3.- Existen patrones geográficos que evidencian desigualdades en la distribución de recursos educativos para escuelas primarias.
 
 #### Medidas Actuales
 
-Existen programas de apoyo y becas para estudiantes en situación de vulnerabilidad, así como políticas de mejora de infraestructura escolar. Sin embargo, estas medidas han demostrado ser insuficientes para cerrar la brecha de rendimiento académico de manera equitativa y sostenida.
+Actualmente, las acciones de monitoreo de recursos educativos en escuelas primarias de Veracruz se basan en reportes agregados y generales que no reflejan las características específicas de cada escuela ni su ubicación geográfica. Tampoco existen herramientas que permitan visualizar de manera interactiva las disparidades en la distribución de recursos, dificultando la planificación estratégica en las zonas con mayores carencias.
 
 #### Formulación Completa del Problema
 
-Los estudiantes de educación básica en México, especialmente en comunidades con bajos niveles socioeconómicos, evidencian un rendimiento académico inferior en evaluaciones nacionales como PLANEA. Esto se debe a factores como la falta de recursos tecnológicos, un bajo ingreso familiar y una infraestructura escolar deficiente, y las medidas actuales de apoyo no logran reducir de manera efectiva estas desigualdades.
+En Veracruz, las escuelas de nivel primaria enfrentan desigualdades en la distribución de recursos docentes y organización escolar, lo que limita el acceso equitativo a una educación de calidad. Estas desigualdades son especialmente evidentes en las zonas rurales, donde predominan las escuelas multigrado y la asignación de recursos es insuficiente en comparación con las escuelas urbanas.
+Actualmente, no se ha localizado un análisis detallado y georreferenciado que permita comprender la distribución de estas escuelas y sus características organizacionales, lo que dificulta la identificación de patrones y áreas prioritarias para intervención.
+
+Este estudio busca abordar esta problemática proporcionando un análisis descriptivo y visual de las escuelas primarias en Veracruz. Se explorarán indicadores clave como la distribución geográfica, el tipo de organización docente y la asignación de recursos, con el objetivo de generar evidencia que permita diseñar estrategias específicas para mejorar la equidad y eficiencia en la gestión educativa de las escuelas primarias en el estado.
 
 ### Uso de Ciencia de Datos
 
