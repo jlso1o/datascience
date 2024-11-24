@@ -1,9 +1,10 @@
-# Proyecto Final: Introducción a la Ciencia de Datos
+# Proyecto Final: Análisis de las Características de los Centros de Trabajo en Educación Básica en Veracruz
+## Introducción a la Ciencia de Datos
 ## Elaborado por:
 # José Luis Soto Ortiz
 
 ## Objetivo
-Analizar las caraterísticas de las escuelas de primaria de Veracruz.
+Analizar la distribución geográfica, características organizacionales y recursos disponibles en los Centros de Trabajo (CT) de educación primaria en el estado de Veracruz.
 
 ## Pasos Realizados
 Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
