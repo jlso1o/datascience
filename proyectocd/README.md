@@ -1,7 +1,7 @@
 # Proyecto Final: Análisis de las Características de los Centros de Trabajo en Educación Básica en Veracruz
 ## Introducción a la Ciencia de Datos
 ## Elaborado por:
-# José Luis Soto Ortiz
+### José Luis Soto Ortiz
 
 ## Objetivo
 Analizar la distribución geográfica, características organizacionales y recursos disponibles en los Centros de Trabajo (CT) de educación primaria en el estado de Veracruz.
