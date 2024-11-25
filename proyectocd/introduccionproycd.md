@@ -53,19 +53,6 @@ Actualmente, no se ha localizado un análisis detallado y georreferenciado que p
 
 Este estudio busca abordar esta problemática proporcionando un análisis descriptivo y visual de las escuelas primarias en Veracruz. Se explorarán indicadores clave como la distribución geográfica, el tipo de organización docente y la asignación de recursos, con el objetivo de generar evidencia que permita diseñar estrategias específicas para mejorar la equidad y eficiencia en la gestión educativa de las escuelas primarias en el estado.
 
-### Uso de Ciencia de Datos
-
-Una de las ventajas de utilizar ciencia de datos en este contexto es la capacidad de cruzar grandes volúmenes de información y encontrar patrones que no serían evidentes a simple vista. Por ejemplo, es posible identificar qué regiones o tipos de escuelas presentan mayores desafíos y cómo los factores económicos y sociales contribuyen a esas diferencias. Esto permitirá, además, diseñar intervenciones específicas y políticas públicas más efectivas y focalizadas.
-
-#### Desarrollo de Modelos Predictivos
-
-El desarrollo de modelos predictivos también jugará un papel importante en este proyecto. Utilizando técnicas de regresión y análisis de clustering, se podrán proyectar escenarios futuros y sugerir medidas preventivas para evitar el deterioro del rendimiento académico en ciertas zonas o grupos vulnerables. Esta capacidad de predicción es esencial para que los responsables de la política educativa puedan anticiparse y tomar decisiones informadas.
-
-#### Validación y Despliegue
-
-La validación del proyecto se llevará a cabo mediante un piloto en una región seleccionada, lo cual permitirá evaluar la precisión y efectividad de los modelos propuestos. Durante esta fase, se realizarán ajustes basados en los resultados obtenidos y se medirán indicadores clave, como la mejora en las calificaciones promedio y la reducción de brechas de rendimiento entre distintos grupos socioeconómicos.
-
-Finalmente, si el piloto resulta exitoso, el proyecto se extenderá a nivel nacional. Este despliegue permitirá que las políticas basadas en evidencia se implementen de manera más eficiente, promoviendo una educación más equitativa y adaptada a las necesidades de cada región. Con un monitoreo constante y la capacidad de ajuste, se garantizará que el proyecto siga siendo relevante y efectivo en el tiempo, contribuyendo al desarrollo de una educación básica de calidad para todos los estudiantes en México.
 
 ## Modelado piloto
 En este espacio se presenta el modelado de datos en piloto del cluster de escuelas primarias, [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
