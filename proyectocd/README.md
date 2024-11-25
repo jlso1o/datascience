@@ -2,7 +2,7 @@
 ## Análisis de las Características de los Centros de Trabajo en Educación Básica en Veracruz
 ## Introducción a la Ciencia de Datos
 ## Elaborado por:
-### José Luis Soto Ortiz
+### Dr. José Luis Soto Ortiz
 
 ## Objetivo
 Analizar la distribución geográfica, características organizacionales y recursos disponibles en los Centros de Trabajo (CT) de educación primaria en el estado de Veracruz.
@@ -10,7 +10,7 @@ Analizar la distribución geográfica, características organizacionales y recur
 ## Pasos Realizados
 Descripción general del proyecto. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
 
-Resumen de los pasos realizados.
+Conjunto de datos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/conjuntodatos)
 
 Principales resultados obtenidos.
 
