@@ -1,7 +1,7 @@
 # Conjunto de datos
 El conjunto de datos utilizado en este proyecto contiene información detallada sobre las escuelas primarias del estado de Veracruz. Estos datos provienen de registros oficiales que incluyen características organizacionales, geográficas y de recursos de los Centros de Trabajo (CT). A continuación, se describe cada uno de los elementos clave del conjunto de datos:
 
-## Columnas Principales
+### Columnas Principales
 CCT (Clave del Centro de Trabajo): Identificador único para cada escuela primaria. Esta columna es esencial para vincular información entre diferentes bases de datos.
 1. NOMBRE: Nombre oficial de la escuela primaria, según los registros educativos.
 2. INMUEBLE_C_NOM_MUN: Nombre del municipio donde se encuentra ubicado el CT.
@@ -17,29 +17,29 @@ CCT (Clave del Centro de Trabajo): Identificador único para cada escuela primar
 ## Información Geográfica
 Este conjunto de datos incluye coordenadas geográficas (latitud y longitud) que permiten georreferenciar cada escuela primaria. Esta información es fundamental para realizar análisis geográficos y visualizaciones, como mapas interactivos que muestran la distribución de los CT en el estado.
 
-## Variables Contextuales
+### Variables Contextuales
 1. MUNICIPIO: Nombre del municipio al que pertenece cada CT.
 2. ENTIDAD: Código de la entidad federativa (en este caso, Veracruz está representado con el código 30).
 3. N_ENTIDAD: Nombre de la entidad federativa (Veracruz).
 
-## Cantidad de Registros
+### Cantidad de Registros
 El conjunto de datos incluye un total de:
 
 1. Número total de CT: Representa el número de escuelas primarias registradas en el estado de Veracruz.
 2. Número de municipios: Indica cuántos municipios están representados en el conjunto de datos.
 
-# Propósitos del Conjunto de Datos
+## Propósitos del Conjunto de Datos
 El conjunto de datos es utilizado para:
 
-## Análisis descriptivo:
+### Análisis descriptivo:
 1. Distribución de escuelas por municipio.
 2. Caracterización de tipos de organización docente.
 
-## Análisis geográfico:
+### Análisis geográfico:
 1. Visualización de la ubicación exacta de los CT.
 2. Identificación de municipios con mayor o menor densidad de escuelas.
 
-## Identificación de disparidades:
+### Identificación de disparidades:
 1. Comparación de recursos asignados entre escuelas completas, incompletas y multigrado.
 2. Evaluación de necesidades en municipios rurales y marginados.
 
