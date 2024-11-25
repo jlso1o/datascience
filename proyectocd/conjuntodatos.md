@@ -13,3 +13,34 @@ CCT (Clave del Centro de Trabajo): Identificador único para cada escuela primar
 8. INCOMPLETA: No se atienden todos los grados en la escuela.
 9. TIPO_ORG_ALUMNOS: Tipo de organización de los alumnos, indicando si la escuela es completa o incompleta en términos de grados atendidos.
 10. DOC_TOT: Número total de docentes asignados a la escuela.
+
+## Información Geográfica
+Este conjunto de datos incluye coordenadas geográficas (latitud y longitud) que permiten georreferenciar cada escuela primaria. Esta información es fundamental para realizar análisis geográficos y visualizaciones, como mapas interactivos que muestran la distribución de los CT en el estado.
+
+## Variables Contextuales
+1. MUNICIPIO: Nombre del municipio al que pertenece cada CT.
+2. ENTIDAD: Código de la entidad federativa (en este caso, Veracruz está representado con el código 30).
+3. N_ENTIDAD: Nombre de la entidad federativa (Veracruz).
+
+## Cantidad de Registros
+El conjunto de datos incluye un total de:
+
+1. Número total de CT: Representa el número de escuelas primarias registradas en el estado de Veracruz.
+2. Número de municipios: Indica cuántos municipios están representados en el conjunto de datos.
+
+# Propósitos del Conjunto de Datos
+El conjunto de datos es utilizado para:
+
+## Análisis descriptivo:
+1. Distribución de escuelas por municipio.
+2. Caracterización de tipos de organización docente.
+
+## Análisis geográfico:
+1. Visualización de la ubicación exacta de los CT.
+2. Identificación de municipios con mayor o menor densidad de escuelas.
+
+## Identificación de disparidades:
+1. Comparación de recursos asignados entre escuelas completas, incompletas y multigrado.
+2. Evaluación de necesidades en municipios rurales y marginados.
+
+[🏠 Menú](README.md)
