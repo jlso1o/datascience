@@ -26,21 +26,21 @@ El estado cuenta con una amplia red de escuelas primarias, cada una con caracter
 
 Para abordar el problema, se proponen los siguientes indicadores clave para las escuelas de nivel primaria:
 
-1.- Número de escuelas primarias por municipio.
-2.- Proporción de escuelas primarias multigrado, completas e incompletas.
-3.- Promedio de docentes asignados por escuela primaria.
-4.- Distribución geográfica de las escuelas primarias (latitud y longitud).
-5.- Relación entre el número de docentes y el tipo de organización docente en las escuelas primarias.
-6.- Municipios con mayor y menor densidad de escuelas primarias.
+1. Número de escuelas primarias por municipio.
+2. Proporción de escuelas primarias multigrado, completas e incompletas.
+3. Promedio de docentes asignados por escuela primaria.4
+4.  Distribución geográfica de las escuelas primarias (latitud y longitud).
+5. Relación entre el número de docentes y el tipo de organización docente en las escuelas primarias.
+6. Municipios con mayor y menor densidad de escuelas primarias.
 
 #### Hipótesis
 
 Hipótesis General: Las escuelas primarias en Veracruz presentan disparidades significativas en la asignación de recursos docentes y la organización escolar, particularmente entre regiones rurales y urbanas.
 
 Hipótesis Específicas:
-1.- Las escuelas primarias rurales tienen una mayor proporción de organización multigrado y menor número de docentes por escuela en comparación con las urbanas.
-2.- Los municipios con mayor densidad poblacional concentran más recursos educativos, como docentes y mejores instalaciones.
-3.- Existen patrones geográficos que evidencian desigualdades en la distribución de recursos educativos para escuelas primarias.
+1. Las escuelas primarias rurales tienen una mayor proporción de organización multigrado y menor número de docentes por escuela en comparación con las urbanas.
+2. Los municipios con mayor densidad poblacional concentran más recursos educativos, como docentes y mejores instalaciones.
+3. Existen patrones geográficos que evidencian desigualdades en la distribución de recursos educativos para escuelas primarias.
 
 #### Medidas Actuales
 
