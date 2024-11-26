@@ -14,8 +14,6 @@ Analizar la distribución geográfica, características organizacionales y recur
 1. Introducción [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
 2. Planteamiento del problema [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/problematica)
 3. Conjunto de datos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/conjuntodatos)
-
-Principales resultados obtenidos.
-
-## Resultados Principales
-- Geolocalización de las escuelas primarias del Estado de Veracruz. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
+4. Modelamiento de datos. 
+5. Resultados. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/resultados)
+6. Conclusiones.
