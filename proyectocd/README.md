@@ -12,7 +12,7 @@ Analizar la distribución geográfica, características organizacionales y recur
 
 ## Fases Realizadas
 1. Introducción [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
-2. Planteamiento del problema [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/ntroduccionproycd.md#contexto-del-problema)
+2. Planteamiento del problema [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/ntroduccionproycd#contexto-del-problema)
 3. Conjunto de datos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/conjuntodatos)
 
 Principales resultados obtenidos.
