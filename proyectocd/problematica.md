@@ -40,3 +40,5 @@ En Veracruz, las escuelas de nivel primaria enfrentan desigualdades en la distri
 Actualmente, no se ha localizado un análisis detallado y georreferenciado que permita comprender la distribución de estas escuelas y sus características organizacionales, lo que dificulta la identificación de patrones y áreas prioritarias para intervención.
 
 Este estudio busca abordar esta problemática proporcionando un análisis descriptivo y visual de las escuelas primarias en Veracruz. Se explorarán indicadores clave como la distribución geográfica, el tipo de organización docente y la asignación de recursos, con el objetivo de generar evidencia que permita diseñar estrategias específicas para mejorar la equidad y eficiencia en la gestión educativa de las escuelas primarias en el estado.
+
+[🏠 Menú](README.md) | [➡ Adelante](conjuntodatos.md)
