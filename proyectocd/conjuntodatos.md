@@ -43,4 +43,4 @@ El conjunto de datos es utilizado para:
 1. Comparación de recursos asignados entre escuelas completas, incompletas y multigrado.
 2. Evaluación de necesidades en municipios rurales y marginados.
 
-[🏠 Menú](README.md)
+[🏠 Menú](README.md)|[➡ Adelante](modelado.md)
