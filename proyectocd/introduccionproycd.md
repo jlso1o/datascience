@@ -57,4 +57,4 @@ Este estudio busca abordar esta problemática proporcionando un análisis descri
 ## Modelado piloto
 En este espacio se presenta el modelado de datos en piloto del cluster de escuelas primarias, [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
 
-[🏠 Menú](README.md) | [➡ Adelante](conjuntodatos.md)
+[🏠 Menú](README.md) | [➡ Adelante](problematica.md)
