@@ -17,3 +17,5 @@ Analizar la distribución geográfica, características organizacionales y recur
 4. Modelamiento de datos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/modelado)
 5. Resultados. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/resultados)
 6. Conclusiones.
+
+Nota: Este proyecto ha sido realizado con fines académicos y los datos fueron adquiridos en portales públicos.
