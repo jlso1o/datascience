@@ -16,7 +16,7 @@ Para abordar el problema, se proponen los siguientes indicadores clave para las 
 
 1. Número de escuelas primarias por municipio.
 2. Proporción de escuelas primarias multigrado, completas e incompletas.
-3. Promedio de docentes asignados por escuela primaria.4
+3. Promedio de docentes asignados por escuela primaria.
 4.  Distribución geográfica de las escuelas primarias (latitud y longitud).
 5. Relación entre el número de docentes y el tipo de organización docente en las escuelas primarias.
 6. Municipios con mayor y menor densidad de escuelas primarias.
