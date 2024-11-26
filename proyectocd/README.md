@@ -10,7 +10,7 @@ Analizar la distribución geográfica, características organizacionales y recur
 
 ![Logo del proyecto](https://jlso1o.github.io/datascience/proyectocd/images/veracruz.jpg)
 
-## Fases Realizadas
+## Fases del Proyecto
 1. Introducción [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/introduccionproycd)
 2. Planteamiento del problema [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/problematica)
 3. Conjunto de datos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/conjuntodatos)
