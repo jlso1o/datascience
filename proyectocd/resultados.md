@@ -4,33 +4,33 @@ Para la presentación descriptiva de los CT, se realizó una tabla dinámica que
 
 ### Municipios con Menos Escuelas y Docentes
 Chumatlán:
-Escuelas: 1
-Docentes: 6
-Alumnos: 65
+Escuelas: 1,
+Docentes: 6,
+Alumnos: 65,
 Chumatlán tiene el menor número de escuelas, lo que refleja un acceso limitado a recursos educativos. Aunque tiene 6 docentes, su capacidad es limitada para cubrir las necesidades de la comunidad.
 
 Acatlán:
-Escuelas: 1
-Docentes: 18
-Alumnos: 380
+Escuelas: 1,
+Docentes: 18,
+Alumnos: 380,
 Aunque solo cuenta con una escuela, la proporción de docentes es mayor, lo que sugiere una mejor capacidad para atender a los alumnos.
 
 Astacinga:
-Escuelas: 1
-Docentes: 1
-Alumnos: 19
+Escuelas: 1,
+Docentes: 1,
+Alumnos: 19,
 Este municipio presenta un caso extremo con solo un docente, lo que indica una situación crítica en términos de cobertura educativa.
 
 Magdalena:
-Escuelas: 1
-Docentes: 6
-Alumnos: 151
+Escuelas: 1,
+Docentes: 6,
+Alumnos: 151,
 Similar a Chumatlán, Magdalena tiene una escuela y pocos docentes, lo que limita su capacidad educativa.
 
 San Andrés Tenejapan:
-Escuelas: 2
-Docentes: 7
-Alumnos: 165
+Escuelas: 2,
+Docentes: 7,
+Alumnos: 165,
 Con solo dos escuelas, este municipio también enfrenta desafíos en términos de distribución de recursos.
 
 Tabla [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/tabla_escuelas_por_municipio)
