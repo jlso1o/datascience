@@ -33,7 +33,7 @@ Docentes: 7,
 Alumnos: 165,
 Con solo dos escuelas, este municipio también enfrenta desafíos en términos de distribución de recursos.
 
-Tabla [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/tabla_escuelas_por_municipio)
+Aquí puedes consultar la Tabla completa [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/tabla_escuelas_por_municipio)
 
 Por otra parte se realizo una gráfica resumen para presentar el promedio de de alumnos por docentes atendidos en los datos analizados.
 ![gráfica_1](https://jlso1o.github.io/datascience/proyectocd/images/alumnos_por_docente.png)
