@@ -1,6 +1,6 @@
 # Resultados
 ## Descriptivos de los centros escolares de nivel primaria
-Para la presentación descriptiva de los CT, se realizó una tabla dinámica que resume información clave sobre las escuelas primarias del estado de Veracruz, organizadas por municipio. Los datos incluyen el número de escuelas, docentes y alumnos, lo que permite un análisis detallado de la distribución de recursos educativos. A continuación, se analizan los municipios con el mayor y menor número de escuelas y docentes.
+Para la presentación descriptiva de los CT, se realizó una tabla que resume información clave sobre las escuelas primarias del estado de Veracruz, organizadas por municipio. Los datos incluyen el número de escuelas, docentes y alumnos, lo que permite un análisis detallado de las características de los centros educativos. A continuación, se analizan los municipios con el mayor y menor número de escuelas y docentes.
 
 ### Municipios con Menos Escuelas y Docentes
 Chumatlán:
