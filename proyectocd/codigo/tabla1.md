@@ -1,4 +1,4 @@
-## En este apartado se muestra el código realizado en phyton para la obtención de la tabla y gráfica resumen.
+### En este apartado se muestra el código realizado en phyton para la obtención de la tabla y gráfica resumen.
 
 ```python
 import pandas as pd
