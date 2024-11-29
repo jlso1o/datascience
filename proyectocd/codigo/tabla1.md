@@ -23,4 +23,5 @@ print(tabla_ordenada)
 
 # Guardar la tabla como archivo Markdown
 tabla_ordenada.to_markdown('/Users/salida23/Desktop/Datos/tabla_escuelas_por_municipio.md', index=False, tablefmt='github')
-print("Tabla guardada como 'tabla_escuelas_por_municipio.md'.")´´´
+print("Tabla guardada como 'tabla_escuelas_por_municipio.md'.")```
+
