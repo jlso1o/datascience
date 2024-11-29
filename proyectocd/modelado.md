@@ -8,7 +8,7 @@ El modelo utilizado en este proyecto tiene como objetivo identificar patrones en
 ## Proceso de Modelamiento:
 El proceso de modelamiento comenzó con la limpieza y preparación de los datos, asegurando que las columnas seleccionadas estuvieran completas y consistentes. Posteriormente, se calcularon métricas básicas, como el número total de escuelas, docentes y alumnos por municipio. Estas métricas se utilizaron tanto para generar una tabla dinámica como para alimentar el modelo de agrupamiento. El algoritmo K-Means fue entrenado utilizando las coordenadas geográficas (latitud y longitud) y el número de alumnos y docentes, permitiendo identificar grupos de municipios y escuelas con características similares. Además, se generaron gráficos descriptivos, como la distribución de escuelas por municipio y la caracterización de los tipos de organización docente, para complementar el análisis. Finalmente, se evaluó la consistencia de los clusters mediante técnicas de validación cruzada y se ajustaron los parámetros para garantizar que los resultados fueran significativos e interpretables.
 
-El código fuente lo puedes encontrar aquí: [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/tabla1)
+El código fuente para la obtención descriptiva lo puedes encontrar aquí: [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/tabla1)
 
 ## Implementación del modelo:
 La implementación del modelo se llevó a cabo mediante herramientas de análisis de datos como Python, utilizando bibliotecas como Pandas, Scikit-learn y Folium. La tabla dinámica y los gráficos descriptivos se integraron en este espacio de GitHub para facilitar su acceso y visualización por parte de los interesados. 
