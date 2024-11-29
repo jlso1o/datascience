@@ -40,7 +40,7 @@ El conjunto de datos es utilizado para:
 2. Identificación de municipios con mayor o menor densidad de escuelas.
 
 ### Identificación de disparidades:
-1. Comparación de recursos asignados entre escuelas completas, incompletas y multigrado.
+1. Comparación entre escuelas completas, incompletas y multigrado.
 2. Evaluación de necesidades en municipios rurales y marginados.
 
 [🏠 Menú](README.md)|[➡ Adelante](modelado.md)
