@@ -35,5 +35,8 @@ Con solo dos escuelas, este municipio también enfrenta desafíos en términos d
 
 Tabla [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/tabla_escuelas_por_municipio)
 
+Por otra parte se realizo una gráfica resumen para presentar el promedio de de alumnos por docentes atendidos en los datos analizados.
+![gráfica_1](https://jlso1o.github.io/datascience/proyectocd/images/alumnos_por_docente.png)
+
 ## Geolocalización
 - Geolocalización de las escuelas primarias del Estado de Veracruz. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
