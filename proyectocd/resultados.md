@@ -39,7 +39,7 @@ Por otra parte se realizo una gráfica resumen para presentar el promedio de de 
 
 ![gráfica_1](https://jlso1o.github.io/datascience/proyectocd/images/alumnos_por_docente.png)
 
-El código fuente lo puedes encontrar aquí: [haz click para ir](https://jlso1o.github.io/datascience/codigo/tabla1.py)
+El código fuente lo puedes encontrar aquí: [haz click para ir](https://jlso1o.github.io/datascience/codigo/tabla1.md)
 
 ## Geolocalización
 - Geolocalización de las escuelas primarias del Estado de Veracruz. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
