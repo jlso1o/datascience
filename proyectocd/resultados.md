@@ -42,3 +42,5 @@ Por otra parte se realizo una gráfica resumen para presentar el promedio de alu
 
 ## Geolocalización
 - Geolocalización de las escuelas primarias del Estado de Veracruz. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
+
+[🏠 Menú](README.md)|[➡ Adelante](conclusiones.md)
