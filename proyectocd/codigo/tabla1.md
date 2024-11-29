@@ -1,3 +1,4 @@
+```python
 import pandas as pd
 
 # Cargar el archivo combinado
