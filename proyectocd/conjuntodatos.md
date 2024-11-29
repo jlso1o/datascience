@@ -1,5 +1,5 @@
 # Conjunto de datos
-El conjunto de datos utilizado en este proyecto contiene información detallada sobre las escuelas primarias del estado de Veracruz. Estos datos provienen de registros oficiales que incluyen características organizacionales, geográficas y de recursos de los Centros de Trabajo (CT). A continuación, se describe cada uno de los elementos clave del conjunto de datos:
+El conjunto de datos utilizado en este proyecto contiene información detallada sobre las escuelas primarias del estado de Veracruz. Estos datos provienen de registros oficiales tales como el INEGI, SIGED y Datos Abiertos de México que permiten su consulta y descarga. Estos archivos incluyen características organizacionales, geográficas y de recursos de los Centros de Trabajo (CT). A continuación, se describe cada uno de los elementos clave del conjunto de datos:
 
 ### Columnas Principales
 CCT (Clave del Centro de Trabajo): Identificador único para cada escuela primaria. Esta columna es esencial para vincular información entre diferentes bases de datos.
@@ -28,8 +28,10 @@ El conjunto de datos incluye un total de:
 1. Número total de CT: Representa el número de escuelas primarias registradas en el estado de Veracruz.
 2. Número de municipios: Indica cuántos municipios están representados en el conjunto de datos.
 
+Aquí puedes descargar los archivos utilizados para este proyecto:
+
 ## Propósitos del Conjunto de Datos
-El conjunto de datos es utilizado para:
+El conjunto de datos se utilizaron para el análisis de:
 
 ### Análisis descriptivo:
 1. Distribución de escuelas por municipio.
