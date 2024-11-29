@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Cargar el archivo combinado
-df = pd.read_csv('/Users/salida23/Desktop/Datos/archivo_completo.csv', encoding='ISO-8859-1', low_memory=False)
+df = pd.read_csv('/datos/archivo_completo.csv', encoding='ISO-8859-1', low_memory=False)
 
 # Eliminar filas con valores faltantes en columnas clave
 df = df.dropna(subset=['INMUEBLE_C_NOM_MUN', 'DOC_TOT', 'ING_T'])
@@ -22,7 +22,7 @@ print("Tabla de distribución de escuelas por municipio con métricas adicionale
 print(tabla_ordenada)
 
 # Guardar la tabla como archivo Markdown
-tabla_ordenada.to_markdown('/Users/salida23/Desktop/Datos/tabla_escuelas_por_municipio.md', index=False, tablefmt='github')
+tabla_ordenada.to_markdown('/datos/tabla_escuelas_por_municipio.md', index=False, tablefmt='github')
 print("Tabla guardada como 'tabla_escuelas_por_municipio.md'.") 
 ```
 
