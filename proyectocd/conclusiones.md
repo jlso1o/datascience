@@ -17,3 +17,5 @@ Los municipios con menor cantidad de escuelas y recursos educativos requieren un
 
 ## 5. Relevancia del Proyecto
 Este proyecto es un ejemplo práctico del potencial de la ciencia de datos para generar conocimiento aplicable a políticas públicas. La visualización y análisis de los datos educativos permiten identificar problemas estructurales y proponer soluciones orientadas a reducir las desigualdades en el sistema educativo.
+
+[🏠 Menú](README.md) | 
