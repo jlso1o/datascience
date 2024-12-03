@@ -41,8 +41,5 @@ El conjunto de datos se utilizaron para el análisis de:
 1. Visualización de la ubicación exacta de los CT.
 2. Identificación de municipios con mayor o menor densidad de escuelas.
 
-### Identificación de disparidades:
-1. Comparación entre escuelas completas, incompletas y multigrado.
-2. Evaluación de necesidades en municipios rurales y marginados.
 
 [🏠 Menú](README.md)|[➡ Adelante](modelado.md)
