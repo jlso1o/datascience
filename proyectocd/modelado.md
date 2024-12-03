@@ -14,6 +14,8 @@ El código fuente para la obtención descriptiva lo puedes encontrar aquí: [haz
 La implementación del modelo se llevó a cabo mediante herramientas de análisis de datos como Python, utilizando bibliotecas como Pandas, Scikit-learn y Folium. La tabla dinámica y los gráficos descriptivos se integraron en este espacio de GitHub para facilitar su acceso y visualización por parte de los interesados. 
 Los resultados del modelo de agrupamiento se utilizaron para generar un mapa interactivo que muestra los clusters de escuelas por municipio, resaltando patrones relevantes en la distribución de recursos educativos. Este mapa proporciona una herramienta visual para que las autoridades educativas y otros actores puedan identificar rápidamente las áreas con mayores necesidades o desigualdades. El modelo y su implementación están diseñados para ser reproducibles, permitiendo actualizaciones regulares conforme se disponga de nuevos datos o cambien las prioridades educativas.
 
+El código para la geolocalización de las escuelas primarias, lo puedes consultar:
+[haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/geoposicion)
 
 El código para la geolocalización en la Densidad de las escuelas lo puedes consultar:
 [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/densidadescuelas)
