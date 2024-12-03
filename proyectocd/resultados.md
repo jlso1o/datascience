@@ -41,6 +41,10 @@ Por otra parte se realizo una gráfica resumen para presentar el promedio de alu
 
 
 ## Geolocalización
+### Análisis geográfico: Visualización de la ubicación exacta de los CT.
+Identificación de municipios con mayor o menor densidad de escuelas.
 - Geolocalización de las escuelas primarias del Estado de Veracruz. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_geoposicion_cluster.html)
+- Densidad de los 10 municipios con menos escuelas y de los 10 municipios con mayor núm. de escuelas primarias. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_densidad_escuelas.html)
+- Identificación de la distribución de los 10 municipios con la menor relación docentes/alumnos y los 10 municpios con la mayor relación docentes/alumnos. [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/mapa_docentes_alumnos.html) 
 
 [🏠 Menú](README.md)|[➡ Adelante](conclusiones.md)
