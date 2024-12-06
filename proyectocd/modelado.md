@@ -21,6 +21,6 @@ El código para la geolocalización en la Densidad de las escuelas lo puedes con
 [haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/densidadescuelas)
 
 El código para la geolocalización en la Densidad en la relación docentes/alumnos de las escuelas lo puedes consultar:
-[haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/densidadludoc)
+[haz click para ir](https://jlso1o.github.io/datascience/proyectocd/codigo/densidadaludoc)
 
 [🏠 Menú](README.md)|[➡ Adelante](resultados.md)
