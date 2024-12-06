@@ -6,7 +6,7 @@ Elaborado por:
 Dr. José Luis Soto Ortiz
 
 ## Objetivo
-Analizar la distribución geográfica, características organizacionales y recursos disponibles en los Centros de Trabajo (CT) de educación primaria en el estado de Veracruz.
+Analizar la distribución geográfica, características organizacionales en los Centros de Trabajo (CT) de educación primaria en el estado de Veracruz.
 
 ![Logo del proyecto](https://jlso1o.github.io/datascience/proyectocd/images/veracruz.jpg)
 
